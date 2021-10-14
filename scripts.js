@@ -1,6 +1,4 @@
-// Make Cards
 const sectionCards = document.querySelector("section.cards");
-
 const card = document.querySelector("div.card");
 
 const videos = [
